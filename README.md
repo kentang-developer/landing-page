@@ -1,2 +1,4 @@
 # landing-page
-Landing page website kentang developer
+Landing page example
+
+https://kentang-developer.github.io/landing-page/
